@@ -6,3 +6,5 @@ I'm FredB-mine, a middle school student who lives in Shanghai
 -   :seedling: Taking courses & doing assignments at FHM
 -   :man: Pronouns: he/him
 -   🌏: <a href="alfredoj.natapp1.cc">OnlineJudge</a>
+
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
