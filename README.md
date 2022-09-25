@@ -1,4 +1,7 @@
-[![FredB-mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredB-mine)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=FredB-mine&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FredB-mine&theme=radical">
+</p>
 - 👋 Hi, I’m @FredB-mine
 - 👀 I’m interested in Python C/C++/C# and Swift
 - 🌱 I’m currently learning Python and C++
