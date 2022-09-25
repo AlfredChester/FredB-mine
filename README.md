@@ -1,7 +1,4 @@
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=FredB-mine&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FredB-mine&theme=radical&layout=compact&line_height=27">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=FredB-mine&show_icons=true&theme=tokyonight&line_height=27">
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 - 👋 Hi, I’m @FredB-mine
 - 👀 I’m interested in Python C/C++/C# and Swift
