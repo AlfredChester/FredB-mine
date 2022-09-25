@@ -11,4 +11,7 @@ I'm FredB-mine, a middle school student who lives in Shanghai
   <img src="https://github-profile-trophy.vercel.app/?username=FredB-mine">
 </p>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">
+  Reach me on 
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h1>
