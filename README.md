@@ -14,11 +14,13 @@ I'm FredB-mine, a middle school student who lives in Shanghai
   <img src="https://github-profile-trophy.vercel.app/?username=FredB-mine">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredB-mine">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredB-mine" align="right">
-  <h1 align="center" style="margin-top: 30px;">
+  <span width="100%" style="height: 30px;"></span>
+</p>
+
+<h1 align="center" style="margin-top: 30px;">
     Reach me on 
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-  </h1>
-</p>
+</h1>
 
 <p align="center">
   <a href="https://space.bilibili.com/1638383707">
