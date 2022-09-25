@@ -12,7 +12,7 @@ I'm FredB-mine, a middle school student who lives in Shanghai
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FredB-mine">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredB-mine">
 </p>
 
 <h1 align="center">
