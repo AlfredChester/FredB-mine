@@ -110,7 +110,10 @@ class Main:
             if(isinstance(name,str)):
                 name = Main.force_decode(name)
                 logger.info("Decoded: " + name)
-            currentCommit = input(f"请输入对 {name} 的commit: ").replace('"','\\"')
+            if (name != 'README.md'):
+                currentCommit = input(f"请输入对 {name} 的commit: ").replace('"','\\"')
+            else:
+                currentCommit = 'Readme'
             # 可能输入的commit中带有'"', 要在前面加 '\'
             Main.runAndGet(f'git commit "{name}" -m "{currentCommit}"')
         checkIfPush = input("是否推送到GitHub? (Y/n) ")
