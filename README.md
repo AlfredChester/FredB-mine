@@ -7,6 +7,6 @@ I'm FredB-mine, a middle school student who lives in Shanghai
 -   :man: Pronouns: he/him
 -   🌏: <a href="alfredoj.natapp1.cc">OnlineJudge</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FredB-mine">
+<img src="https://github-profile-trophy.vercel.app/?username=FredB-mine" align="center">
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
