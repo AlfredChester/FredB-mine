@@ -110,7 +110,7 @@ class Main:
             if(isinstance(name,str)):
                 name = Main.force_decode(name)
                 logger.info("Decoded: " + name)
-            if (name != 'README.md'):
+            if (name != '.\\README.md'):
                 currentCommit = input(f"请输入对 {name} 的commit: ").replace('"','\\"')
             else:
                 currentCommit = 'Readme'
