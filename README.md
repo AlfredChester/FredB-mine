@@ -1,6 +1,6 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=FredB-mine&show_icons=true&theme=tokyonight&line_height=27" style="height: 150px;">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FredB-mine&theme=radical" style="height: 150px;">
+  <img src = "https://github-readme-stats.vercel.app/api?username=FredB-mine&show_icons=true&theme=tokyonight&line_height=27" style="height: 200px;">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FredB-mine&theme=radical" style="height: 200px;">
 </p>
 - 👋 Hi, I’m @FredB-mine
 - 👀 I’m interested in Python C/C++/C# and Swift
