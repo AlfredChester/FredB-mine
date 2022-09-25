@@ -17,7 +17,7 @@ I'm FredB-mine, a middle school student who lives in Shanghai
 </h1>
 
 <p align="center">
-
-  [![BiliBili](https://img.shields.io/badge/BiliBili-4903FC?style=for-the-badge&logoColor=white)](https://space.bilibili.com/1638383707)
-
+  <a href="https://space.bilibili.com/1638383707">
+    <img src="https://img.shields.io/badge/-BiliBili-pink?style=for-the-badge&logoColor=white">
+  </a>
 </p>
