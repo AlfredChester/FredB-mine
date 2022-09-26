@@ -28,4 +28,7 @@ I'm FredB-mine, a middle school student who lives in Shanghai
   <a href="/img/wechat_QR.jpg">
     <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logoColor=white">
   </a>
+  <a href="https://www.luogu.com.cn/user/583610">
+    <img src="https://img.shields.io/badge/-luogu-white?style=for-the-badge&logoColor=white">
+  </a>
 </p>
