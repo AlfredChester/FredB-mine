@@ -6,7 +6,7 @@
 
 I'm FredB-mine, a middle school student who lives in Shanghai
 -   :hammer_and_pick: C++ / JavaScript / Vue / Python/ Java
--   :seedling: Taking courses & doing assignments at FHM
+-   :seedling: Taking courses & doing assignments at FHC
 -   :man: Pronouns: he/him
 -   🌏: <a href="http://alfredoj.natapp1.cc">OnlineJudge</a>
 
